@@ -1,0 +1,13 @@
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\bin\Debug\netcoreapp3.1\RSAReceiver.exe
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\bin\Debug\netcoreapp3.1\RSAReceiver.deps.json
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\bin\Debug\netcoreapp3.1\RSAReceiver.runtimeconfig.json
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\bin\Debug\netcoreapp3.1\RSAReceiver.runtimeconfig.dev.json
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\bin\Debug\netcoreapp3.1\RSAReceiver.dll
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\bin\Debug\netcoreapp3.1\RSAReceiver.pdb
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\obj\Debug\netcoreapp3.1\RSAReceiver.csprojAssemblyReference.cache
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\obj\Debug\netcoreapp3.1\RSAReceiver.AssemblyInfoInputs.cache
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\obj\Debug\netcoreapp3.1\RSAReceiver.AssemblyInfo.cs
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\obj\Debug\netcoreapp3.1\RSAReceiver.csproj.CoreCompileInputs.cache
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\obj\Debug\netcoreapp3.1\RSAReceiver.dll
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\obj\Debug\netcoreapp3.1\RSAReceiver.pdb
+C:\Users\asdf\source\repos\RSASender\RSAReceiver\obj\Debug\netcoreapp3.1\RSAReceiver.genruntimeconfig.cache

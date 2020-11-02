@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RSASender/1.0.0": {
+        "dependencies": {
+          "RSAReceiver": "1.0.0"
+        },
+        "runtime": {
+          "RSASender.dll": {}
+        }
+      },
+      "RSAReceiver/1.0.0": {
+        "runtime": {
+          "RSAReceiver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSASender/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RSAReceiver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

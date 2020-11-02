@@ -1,0 +1,6 @@
+C:\Users\asdf\source\repos\RSASender\RSAKeyLibrary\bin\Debug\RSAKeyLibrary.dll
+C:\Users\asdf\source\repos\RSASender\RSAKeyLibrary\bin\Debug\RSAKeyLibrary.pdb
+C:\Users\asdf\source\repos\RSASender\RSAKeyLibrary\obj\Debug\RSAKeyLibrary.csprojAssemblyReference.cache
+C:\Users\asdf\source\repos\RSASender\RSAKeyLibrary\obj\Debug\RSAKeyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asdf\source\repos\RSASender\RSAKeyLibrary\obj\Debug\RSAKeyLibrary.dll
+C:\Users\asdf\source\repos\RSASender\RSAKeyLibrary\obj\Debug\RSAKeyLibrary.pdb
